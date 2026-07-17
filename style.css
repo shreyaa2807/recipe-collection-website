@@ -1545,3 +1545,440 @@ h1{
 #cock-details{
     background-color: grey;
 }
+#pizz-heading2{
+    position: absolute;
+    top: 20%;
+    left: 18%;
+    transform: translateX(-50%);
+    color: white;
+    width: 30%;
+}
+#pizz-heading2 h1{
+    text-align: left;
+    font-size: 70px;
+    color: darkgreen;
+    font-family: 'geneva';
+    font-weight: lighter;
+}
+#pizz-heading2 p{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height:1.5;
+    color: darkgreen;
+}
+#pizz-info2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    white-space: nowrap;
+}
+#pizz-info2 span{
+    display:flex;
+    align-items: center;
+    color: darkgreen;
+}
+.recipe-section2{
+    background-color: rgb(3, 54, 3);
+    padding-bottom: 20px;
+}
+.recipe-details8{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+}
+.ingredients8{
+    margin-left: 80px;
+    width: 40%;
+    height: 700px;
+    background-color: white;
+    border-radius: 25px;
+    line-height: 1.5;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ingredients8 h2{
+    font-size: 40px; 
+    text-align: left;
+    margin-bottom: 15px;
+    border-bottom: 3px solid darkgreen;
+    padding-left: 30px;
+}
+.ingredients8 ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
+.ingredients-list8{
+    list-style: none;
+}
+.ingredients-list8 li{
+    padding: 15px 0;
+    border-bottom: 1px solid darkgreen;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 20px; 
+    text-align: left;
+    padding-left: 20px;
+}
+.ingredients-list8 li:last-child{
+    border-bottom: none;
+}
+.stats3{
+    display: flex;
+    background-color: darkolivegreen;
+    color: white;
+    width: 80%;
+    flex-wrap: wrap;
+    gap: 20px 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
+    
+}
+.instruction3{
+    width: 45%;
+    margin-left: 60px;
+    background-color: white;
+    border-radius: 15px;
+}
+.instruction3 h2{
+    border-bottom: 5px double darkgreen;
+    padding-left: 70px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.step{
+    margin-top: 30px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.number3{
+    font-size: 22px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: white;
+}
+.chef-tips3{
+    display:flex;
+    align-items: center;
+    width: 80%;
+    margin: 30px auto;
+    background: white;
+    border-left: 30px solid rgb(10, 145, 10);
+    border-radius: 50px;
+    height: 110px;   
+}
+
+.basil2{
+    height: 10px;
+    width: 130px;
+}
+.recipe-feedback2{
+    background-color: rgb(113, 180, 113);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#tip-icon2 img{
+    width: 180px;
+    height: 160px;
+    object-fit: contain;
+}
+#pizz-heading2{
+    position: absolute;
+    top: 20%;
+    left: 18%;
+    transform: translateX(-50%);
+    color: white;
+    width: 30%;
+}
+#pizz-heading2 h1{
+    text-align: left;
+    font-size: 70px;
+    color: darkgreen;
+    font-family: 'geneva';
+    font-weight: lighter;
+}
+#pizz-heading2 p{
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 15px;
+    line-height:1.5;
+    color: darkgreen;
+}
+#pizz-info2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+    white-space: nowrap;
+}
+#pizz-info2 span{
+    display:flex;
+    align-items: center;
+    color: darkgreen;
+}
+.recipe-section3{
+    background-color: #3aabcc;
+    padding-bottom: 20px;
+}
+.recipe-details9{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+}
+.ingredients9{
+    margin-left: 80px;
+    width: 40%;
+    height: 700px;
+    background-color: white;
+    border-radius: 25px;
+    line-height: 1.5;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ingredients9 h2{
+    font-size: 40px; 
+    text-align: left;
+    margin-bottom: 15px;
+    border-bottom: 3px solid darkgreen;
+    padding-left: 30px;
+}
+.ingredients9 ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
+.ingredients-list9{
+    list-style: none;
+}
+.ingredients-list9 li{
+    padding: 15px 0;
+    border-bottom: 1px solid darkgreen;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 20px; 
+    text-align: left;
+    padding-left: 20px;
+}
+.ingredients-list9 li:last-child{
+    border-bottom: none;
+}
+.stats3{
+    display: flex;
+    background-color: darkolivegreen;
+    color: white;
+    width: 80%;
+    flex-wrap: wrap;
+    gap: 20px 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
+    
+}
+.instruction3{
+    width: 45%;
+    margin-left: 60px;
+    background-color: white;
+    border-radius: 15px;
+}
+.instruction3 h2{
+    border-bottom: 5px double darkgreen;
+    padding-left: 70px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.step{
+    margin-top: 30px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.number3{
+    font-size: 22px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:darkolivegreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: white;
+}
+.chef-tips4{
+    display:flex;
+    align-items: center;
+    width: 80%;
+    margin: 30px auto;
+    background: white;
+    border-left: 30px solid rgb(10, 145, 10);
+    border-radius: 50px;
+    height: 110px;   
+}
+
+.basil2{
+    height: 10px;
+    width: 130px;
+}
+.recipe-feedback2{
+    background-color: rgb(113, 180, 113);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#tip-icon2 img{
+    width: 180px;
+    height: 160px;
+    object-fit: contain;
+}
+.recipe-section4{
+    background-color: rgb(196, 75, 95);
+    padding-bottom: 20px;
+}
+.recipe-details10{
+    display: flex;
+    gap: 30px;
+    padding: 50px;
+}
+.ingredients10{
+    margin-left: 80px;
+    width: 40%;
+    height: 700px;
+    background-color: white;
+    border-radius: 25px;
+    line-height: 1.5;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.ingredients10 h2{
+    font-size: 40px; 
+    text-align: left;
+    margin-bottom: 15px;
+    border-bottom: 3px solid rgb(192, 30, 57);
+    padding-left: 30px;
+}
+.ingredients10 ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
+.ingredients-list10{
+    list-style: none;
+}
+.ingredients-list10 li{
+    padding: 15px 0;
+    border-bottom: 1px solid rgb(192, 30, 57) ;
+    margin: 0;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 20px; 
+    text-align: left;
+    padding-left: 20px;
+}
+.ingredients-list10 li:last-child{
+    border-bottom: none;
+}
+.stats4{
+    display: flex;
+    background-color: rgb(192, 30, 57);
+    color: white;
+    width: 80%;
+    flex-wrap: wrap;
+    gap: 20px 40px;
+    border-radius: 15px;
+    padding-left: 20px;
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 20px;
+    
+}
+.instruction4{
+    width: 45%;
+    margin-left: 60px;
+    background-color: white;
+    border-radius: 15px;
+}
+.instruction4 h2{
+    border-bottom: 5px double rgb(192, 30, 57);
+    padding-left: 70px;
+    font-size: 40px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.step{
+    margin-top: 30px;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    font-size: 20px;
+    margin-bottom: 30px;
+    padding-left: 20px;
+    
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+.number4{
+    font-size: 22px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color:rgb(192, 30, 57);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    color: white;
+}
+.chef-tips5{
+    display:flex;
+    align-items: center;
+    width: 80%;
+    margin: 30px auto;
+    background: white;
+    border-left: 30px solid rgb(253, 85, 113);
+    border-radius: 50px;
+}
+.basil3{
+    height: 20px;
+    width:200px;
+}
+.recipe-feedback3{
+    background-color: rgb(155, 113, 122);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
